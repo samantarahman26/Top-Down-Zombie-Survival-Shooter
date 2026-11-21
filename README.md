@@ -83,15 +83,3 @@
 - **Distance Calculation:** Measuring Euclidean distance between circular objects.
 - **Collision Detection:** Detecting interactions between bullets, zombies, and the player.
 
----
-
-## 🖼️ 8. Game Screenshots
-
-### Start Menu
-![Start Menu](screenshots/start-menu.png)
-
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
-
-### Game Over
-![Game Over](screenshots/game-over.png)
